@@ -6,6 +6,10 @@
     <PackageId>Nacho.Helpers.String</PackageId>
     <Authors>Nick McClure</Authors>
     <Description>A collection of string extensions used for tasks like Base64 encoding and other common tasks.</Description>
+    <PackageProjectUrl>https://github.com/nickjmcclure/StringHelpers</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/nickjmcclure/StringHelpers</RepositoryUrl>
+    <Copyright>Nick McClure</Copyright>
+    <SignAssembly>false</SignAssembly>
   </PropertyGroup>
 
 </Project>
