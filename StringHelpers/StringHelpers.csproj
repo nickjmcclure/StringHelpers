@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Nacho.Helpers</RootNamespace>
+    <PackageId>Nacho.Helpers.String</PackageId>
+    <Authors>Nick McClure</Authors>
+    <Description>A collection of string extensions used for tasks like Base64 encoding and other common tasks.</Description>
+  </PropertyGroup>
+
+</Project>
